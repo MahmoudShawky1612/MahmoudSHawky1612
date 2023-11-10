@@ -1,7 +1,6 @@
 <h1 align="center">Heyo 👋, I'm DODJE</h1>
 <h3 align="center">A passionate computer science student</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/MahmoudShawky1612/Mahmoud-Shawky/assets/90555211/d1b7579e-6b9d-4a65-9aa6-af8a14b4f037)
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudshawky1612&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudshawky1612" /> </p>
 
