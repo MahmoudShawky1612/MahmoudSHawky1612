@@ -1,5 +1,6 @@
 <h1 align="center">Heyo 👋, I'm DODJE</h1>
 <h3 align="center">A passionate computer science student</h3>
+<h3 align="center">🌍 I'm based in Cairo</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudshawky1612&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudshawky1612" /> </p>
